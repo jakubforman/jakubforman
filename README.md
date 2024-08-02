@@ -7,3 +7,5 @@ I'm a **Full-Stack App & Web Developer** from Czech Republic who loves making hi
 - 📫 How to reach me: [jakubforman.eu](https://jakubforman.eu)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm huge fan of metal-core music, skateboarding and slopestyle/freestyle skiing.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]([https://buymeacoffee.com/jakubforman](https://buymeacoffee.com/jakubforman))
